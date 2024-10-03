@@ -1,0 +1,3 @@
+/home/ng/1homework/build/CMakeFiles/a.out.dir
+/home/ng/1homework/build/CMakeFiles/edit_cache.dir
+/home/ng/1homework/build/CMakeFiles/rebuild_cache.dir
